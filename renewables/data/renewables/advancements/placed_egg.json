@@ -1,0 +1,18 @@
+{
+    "criteria": {
+        "place_egg": {
+            "trigger": "placed_block",
+            "conditions": {
+                "block": "dragon_egg",
+                "player": {
+                    "location": {
+                        "dimension": "the_end"
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "renewables:dragon_egg/placed"
+    }
+}

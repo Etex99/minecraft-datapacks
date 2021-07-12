@@ -1,0 +1,1 @@
+execute as @e[type=marker,tag=renew.egg] at @s run function renewables:dragon_egg/tick

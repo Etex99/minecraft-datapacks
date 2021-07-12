@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# #",
+        "L L"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:chain"
+        },
+        "L": {
+            "item": "minecraft:leather"
+        }
+    },
+    "result": {
+        "item": "minecraft:chainmail_boots",
+        "count": 1
+    }
+}

@@ -1,0 +1,1 @@
+{"parent":"minecraft:recipes/root","requirements":[["has_clay","has_the_recipe"]],"rewards":{"recipes":["renewables:clay_ball"]},"criteria":{"has_the_recipe":{"trigger":"minecraft:recipe_unlocked","conditions":{"recipe":"renewables:clay_ball"}},"has_clay":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["minecraft:clay"]}]}}}}

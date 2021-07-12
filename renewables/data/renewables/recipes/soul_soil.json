@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#W#",
+        "W#W",
+        "#W#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bone"
+        },
+        "W": {
+            "item": "minecraft:warped_wart_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:soul_soil",
+        "count": 4
+    }
+}

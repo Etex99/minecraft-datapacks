@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "K"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:lily_pad"
+        },
+        "K": {
+            "item": "minecraft:kelp"
+        }
+    },
+    "result": {
+        "item": "minecraft:small_dripleaf",
+        "count": 1
+    }
+}

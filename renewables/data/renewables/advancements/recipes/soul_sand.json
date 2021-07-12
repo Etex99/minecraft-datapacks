@@ -1,0 +1,1 @@
+{"parent":"minecraft:recipes/root","requirements":[["has_soul_soil","has_the_recipe"]],"rewards":{"recipes":["renewables:soul_sand"]},"criteria":{"has_the_recipe":{"trigger":"minecraft:recipe_unlocked","conditions":{"recipe":"renewables:soul_sand"}},"has_soul_soil":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["minecraft:soul_soil"]}]}}}}
