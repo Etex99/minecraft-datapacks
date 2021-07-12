@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#B",
+        "B#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cobblestone"
+        },
+        "B": {
+            "item": "minecraft:basalt"
+        }
+    },
+    "result": {
+        "item": "minecraft:tuff",
+        "count": 4
+    }
+}

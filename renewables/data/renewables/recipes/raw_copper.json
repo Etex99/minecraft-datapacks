@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "renewables:raw_ore_ingredient"
+        },
+        {
+            "item": "minecraft:copper_ingot"
+        }
+    ],
+    "result": {
+        "item": "minecraft:raw_copper",
+        "count": 1
+    }
+}

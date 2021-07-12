@@ -1,0 +1,1 @@
+{"parent":"minecraft:recipes/root","requirements":[["has_coal_block","has_the_recipe"]],"rewards":{"recipes":["renewables:diamond"]},"criteria":{"has_the_recipe":{"trigger":"minecraft:recipe_unlocked","conditions":{"recipe":"renewables:diamond"}},"has_coal_block":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["minecraft:coal_block"]}]}}}}

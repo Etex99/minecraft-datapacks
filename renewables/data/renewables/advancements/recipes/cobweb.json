@@ -1,0 +1,1 @@
+{"parent":"minecraft:recipes/root","requirements":[["has_string","has_the_recipe"]],"rewards":{"recipes":["renewables:cobweb"]},"criteria":{"has_the_recipe":{"trigger":"minecraft:recipe_unlocked","conditions":{"recipe":"renewables:cobweb"}},"has_string":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["minecraft:string"]}]}}}}

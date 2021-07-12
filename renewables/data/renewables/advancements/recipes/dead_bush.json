@@ -1,0 +1,1 @@
+{"parent":"minecraft:recipes/root","requirements":[["has_saplings","has_the_recipe"]],"rewards":{"recipes":["renewables:dead_bush"]},"criteria":{"has_the_recipe":{"trigger":"minecraft:recipe_unlocked","conditions":{"recipe":"renewables:dead_bush"}},"has_saplings":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"tag":"minecraft:saplings"}]}}}}

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:stone"
+        },
+        {
+            "tag": "minecraft:coals"
+        },
+        {
+            "tag": "minecraft:coals"
+        },
+        {
+            "tag": "minecraft:coals"
+        }
+    ],
+    "result": {
+        "item": "minecraft:coal_ore",
+        "count": 1
+    }
+}

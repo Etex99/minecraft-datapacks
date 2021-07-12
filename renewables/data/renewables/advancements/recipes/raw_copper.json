@@ -1,0 +1,1 @@
+{"parent":"minecraft:recipes/root","requirements":[["has_copper_ingot","has_the_recipe"]],"rewards":{"recipes":["renewables:raw_copper"]},"criteria":{"has_the_recipe":{"trigger":"minecraft:recipe_unlocked","conditions":{"recipe":"renewables:raw_copper"}},"has_copper_ingot":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["minecraft:copper_ingot"]}]}}}}
