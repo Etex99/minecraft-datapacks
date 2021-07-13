@@ -45,7 +45,7 @@ Amongst other things a building grid helps you plot, design and measure your bui
 >This datapack was created in collaboration with Plagiatus!
 >You should check out his work at his [website!](https://plagiatus.net/){:target="_blank"}
 
-The renewables datapack is perfect for every hardcore minecraft environmentalist. Do you ever feel like you don't own enough course sand which gets everywhere? I mean... Do you ever feel like destroying prescious landscapes for your selfish construction projects is unacceptable but unavoidable? With the renewables datapack we have created renewable ways to obtain everything in vanilla survival minecraft so that you may divert your exploitation of the natural resources into more handsome operations. We have carefully determined blocks and items in the game which are finite and constructed believable ways of obtaining them with our combined massive intellect. 
+The renewables datapack is perfect for every hardcore minecraft environmentalist. Do you ever feel like you don't own enough course sand which gets everywhere? I mean... Do you ever feel like destroying precious landscapes for your selfish construction projects is unacceptable but unavoidable? With the renewables datapack we have created renewable ways to obtain everything in vanilla survival minecraft so that you may divert your exploitation of the natural resources into more handsome operations. We have carefully determined blocks and items in the game which are finite and constructed believable ways of obtaining them with our combined massive intellect. 
 
 ### List of Features
 
@@ -73,7 +73,7 @@ The renewables datapack is perfect for every hardcore minecraft environmentalist
 * Deepslate Copper Ore is craftable from deepslate and raw copper
 * Raw Copper is craftable from copper ingots and some stone material
 * Drop rate of a Copper Ingot from the Drowned has been increased. The chance is increased by each level of the looting enchantment.
-* Coal Ore can be crafted stone and (char)coal
+* Coal Ore can be crafted from stone and (char)coal
 * Deepslate Coal Ore can be crafted from deepslate and (char)coal
 * Deepslate Diamond Ore can be crafted from deepslate and diamonds
 * Diamond Ore can be crafted from stone and diamonds
@@ -91,7 +91,7 @@ The renewables datapack is perfect for every hardcore minecraft environmentalist
 * Deepslate Lapis Ore can be crafted from deepslate, lapis blocks and lapis
 * Lapis Ore can be crafted from stone, lapis blocks and lapis
 * Netherrack can be crafted from nether wart blocks
-* Calcite can be crafted from boneblocks and nether quartz
+* Calcite can be crafted from bone blocks and nether quartz
 * Clay block can be crafted from water buckets and granite
 
 >Clay is by far the most ridiculously hard to get in large quantities considering it is a purely cosmetic block. Still, it is supposedly "renewable" through villager gifts whilst bearing hero of the village effect but we decided this to be morbidly inefficient.
@@ -131,7 +131,7 @@ The renewables datapack is perfect for every hardcore minecraft environmentalist
 * Digging sand can rarely yield a nautilus shell. The chance is increased by each level of the fortune enchantment.
 * Shulkers regularly spawn around dragon eggs in the end dimension. 
 
->We want to believe the shulkers are hungry for omelettes and therefore attracted to the dragon eggs. In reality this was the only idea we had for making renewable shulker shells.
+>We want to believe the shulkers are hungry for omelettes and therefore attracted to the dragon eggs. In reality this was the only good idea we had for making renewable shulker shells.
 
 Final notes
 
