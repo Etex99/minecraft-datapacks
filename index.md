@@ -11,6 +11,8 @@ On top of the building aspect of the game which first sucked me into creative wo
 
 ## Building Grid
 
+![Building Grid Screenshot](https://github.com/Etex99/minecraft-datapacks/blob/gh-pages/images/building_grid.png)
+
 The building grid datapack is primarily designed for creative players with a strong sense of law and order.
 I first made this pack for myself because the vast emptiness and lack of constraints in a fresh superflat world is too much to bear.
 Amongst other things a building grid helps you plot, design and measure your builds to reach higher sense of control over whatever it is that you're creating. 
