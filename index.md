@@ -45,7 +45,7 @@ Amongst other things a building grid helps you plot, design and measure your bui
 >This datapack was created in collaboration with Plagiatus!
 >You should check out his work at his [website!](https://plagiatus.net/){:target="_blank"}
 
-The renewables datapack is perfect for every hardcore minecraft environmentalist. Do you ever feel like you don't own enough course sand which gets everywhere? I mean... Do you ever feel like destroying precious landscapes for your selfish construction projects is unacceptable but unavoidable? With the renewables datapack we have created renewable ways to obtain everything in vanilla survival minecraft so that you may divert your exploitation of the natural resources into more handsome operations. We have carefully determined blocks and items in the game which are finite and constructed believable ways of obtaining them with our combined massive intellect. 
+The renewables datapack is perfect for every hardcore minecraft environmentalist. Do you ever feel like you don't own enough coarse sand which gets everywhere? I mean... Do you ever feel like destroying precious landscapes for your selfish construction projects is unacceptable but unavoidable? With the renewables datapack we have created renewable ways to obtain everything in vanilla survival minecraft so that you may divert your exploitation of the natural resources into more handsome operations. We have carefully determined blocks and items in the game which are finite and constructed believable ways of obtaining them with our combined massive intellect. 
 
 ### List of Features
 
@@ -138,6 +138,9 @@ Final notes
 >The amount of ore required to craft each ore block has been calculated with Fortune III yields in mind to prevent infinite farming.
 
 >The specific recipes are not stated here. They will appear in the recipe book once the player has obtained all the required resources. 
+
+
+>I've always wanted to make brick houses! How do I sign up??
 
 ### Step by Step Guide for Download and Installation
 
