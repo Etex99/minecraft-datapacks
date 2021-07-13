@@ -1,4 +1,4 @@
-#Minecraft datapacks by Etex
+# Minecraft datapacks by Etex
 
 Last updated: 13/7/2021
 
@@ -9,7 +9,7 @@ It's me, Etex. I recon a small introduction of myself here wouldn't hurt anybody
 
 On top of the building aspect of the game which first sucked me into creative work I grew interest in the technical side of things. And so I began writing some datapacks realizing I joined at just the right time to dodge the finnicky era of writing code into hundreds or thousands of chained blocks. Pretty neat huh? However having started my education in computer science and programming I can safely say minecraft "programming" is far from ideal. I should probably quit before I start ranting. Below you can read about a couple of datapacks which I have made and think you might enjoy too. So if you're interested in my work dive right in!
 
-##Building Grid
+## Building Grid
 
 The building grid datapack is primarily designed for creative players with a strong sense of law and order.
 I first made this pack for myself because the vast emptiness and lack of constraints in a fresh superflat world is too much to bear.
