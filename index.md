@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+#Minecraft datapacks by Etex
 
-You can use the [editor on GitHub](https://github.com/Etex99/minecraft-datapacks/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Last updated: 13/7/2021
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+>Hey there!
+>Welcome to my pages!
 
-### Markdown
+It's me, Etex. I recon a small introduction of myself here wouldn't hurt anybody so I might as well try to make some chit chat. In the Minecraft community you might know me as that one gal who contributed to Realms maps such as: The Naughty List, CONTROL and Slay. Or maybe you've read my name some years ago from a leaderboard on the Hypixel server for TnT tag. Maybe you even were part of the same guild as I at some point. It was fairly large and seasoned in my memory. I'm ashamed to say it would take some effort to remember the name of it now. Those were different times. Either way, I wouldn't really call myself a minecraft fanatic or anything but I believe I know a thing or two after multiple years of service in this game about blocks and how to most effiently arrange them for the release of dopamin in the brain.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+On top of the building aspect of the game which first sucked me into creative work I grew interest in the technical side of things. And so I began writing some datapacks realizing I joined at just the right time to dodge the finnicky era of writing code into hundreds or thousands of chained blocks. Pretty neat huh? However having started my education in computer science and programming I can safely say minecraft "programming" is far from ideal. I should probably quit before I start ranting. Below you can read about a couple of datapacks which I have made and think you might enjoy too. So if you're interested in my work dive right in!
 
-```markdown
-Syntax highlighted code block
+##Building Grid
 
-# Header 1
-## Header 2
-### Header 3
+The building grid datapack is primarily designed for creative players with a strong sense of law and order.
+I first made this pack for myself because the vast emptiness and lack of constraints in a fresh superflat world is too much to bear.
+Amongst other things a building grid helps you plot, design and measure your builds to reach higher sense of control over whatever it is that you're creating. 
 
-- Bulleted
-- List
+Functions of this datapack include:
+* Automatic generation of custom floor in a flat minecraft world
+* A default "blueprint" pattern designed by me
+* Easy floor customization
+* A handy chat UI
 
-1. Numbered
-2. List
+>That sounds terrific!
+>How do I get started??
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Etex99/minecraft-datapacks/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+To download and install the datapack follow these instructions: 
+1. Follow this [link](https://github.com/Etex99/minecraft-datapacks/tree/building-grid) to my Git-repository (latest version)
+2. From the green CODE menu choose to download ZIP
+3. Unzip the downloaded ZIP file in a location where you will find the contents later
+4. Begin new world creation in Minecraft.
+5. Click the "Data Packs" button and open the pack folder and drag and drop the "building_grid" folder in it from the extracted ZIP file. Remember to move the pack to selected!
+6. Additionally choose at least the following world settings: Game Mode:Creative, Allow Cheats:ON, Generate Structures:OFF, World Type:Superflat
+7. Create the world and run the following command: `/function grid_generator:setup`
+8. Follow the chat instructions
