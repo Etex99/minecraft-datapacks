@@ -1,6 +1,6 @@
 # Minecraft datapacks by Etex
 
-Last updated: 13/7/2021
+Last updated: 30/11/2021
 
 >Hey there!
 >Welcome to my pages!
@@ -77,9 +77,9 @@ The renewables datapack is perfect for every hardcore minecraft environmentalist
 * Deepslate Coal Ore can be crafted from deepslate and (char)coal
 * Deepslate Diamond Ore can be crafted from deepslate and diamonds
 * Diamond Ore can be crafted from stone and diamonds
-* Diamond can be smelted from coal blocks in a furnace
+* Mining coal ore can rarely yield diamonds. The amount is increased by each level of the fortune enchantment.
 
->Diamond was one of the hardest items to make renewable while trying to keep things balanced and even remotely logical. Turning coal into diamond is an oversimplification of real world diamond forming. While coal is very easy to obtain in the game the crafting process takes a very long time to balance things out.  
+>Diamond was one of the hardest items to make renewable while trying to keep things balanced and even remotely logical. Turning coal into diamond is an oversimplification of real world diamond forming. While coal is very easy to obtain in the game the chance is very low to balance things out.  
 
 * Emerald Ore can be crafted from stone and emeralds
 * Deepslate Emerald Ore can be crafted from deepslate and emeralds
