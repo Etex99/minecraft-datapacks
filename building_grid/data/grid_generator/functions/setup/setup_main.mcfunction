@@ -2,16 +2,17 @@
 
 gamerule sendCommandFeedback false
 
-scoreboard objectives add BG_settings dummy
 scoreboard objectives add BG_gen_counter dummy
 scoreboard players set gen_mode BG_settings 0
 scoreboard players set generating BG_settings 1
+
+scoreboard players set ran_setup BG_settings 1
 
 forceload add 0 0 
 
 tp @s 0 ~2 0
 
-execute unless entity @e[type=area_effect_cloud,tag=BG_grid_start] run function grid_generator:setup/spawn_main_aec
+execute unless entity @e[type=marker,tag=BG_grid_start] run function grid_generator:setup/spawn_main_marker
 
 execute as @a at @s run tellraw @s {"text":">","color":"yellow"}
 execute as @a at @s run tellraw @s {"text":"You are using grid generator by Etex","color":"yellow"} 
