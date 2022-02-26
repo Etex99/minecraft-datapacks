@@ -1,6 +1,6 @@
 # Minecraft datapacks by Etex
 
-Last updated: 30/11/2021
+Last updated: 26/02/2022
 
 >Hey there!
 >Welcome to my pages!
@@ -11,6 +11,10 @@ On top of the building aspect of the game which first sucked me into creative wo
 
 ## Building Grid
 
+### Last Updated for Game Version: Java 1.18
+
+>Remember data packs don't necessarily break in newer game versions.
+
 ![Building Grid Screenshot](https://github.com/Etex99/minecraft-datapacks/raw/gh-pages/images/building_grid.png)
 
 The building grid datapack is primarily designed for creative players with a strong sense of law and order.
@@ -20,9 +24,9 @@ Amongst other things a building grid helps you plot, design and measure your bui
 ### List of Features
 
 * Automatic generation of custom floor in a flat minecraft world
-* A default "blueprint" pattern designed by me
+* A default floor pattern designed by me
 * Easy floor customization
-* A handy chat UI
+* A handy chat UI, no command typing required!
 
 >That sounds terrific!
 >How do I get started??
@@ -35,7 +39,7 @@ Amongst other things a building grid helps you plot, design and measure your bui
 4. Begin new world creation in Minecraft.
 5. Click the "Data Packs" button and open the pack folder and drag and drop the "building_grid" folder in it from the extracted ZIP file. Remember to move the pack to selected!
 6. Additionally choose at least the following world settings: Game Mode:Creative, Allow Cheats:ON, Generate Structures:OFF, World Type:Superflat
-7. Create the world and run the following command: `/function grid_generator:setup`
+7. Create the world
 8. Follow the chat instructions
 
 ## Renewables 
