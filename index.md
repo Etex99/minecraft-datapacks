@@ -44,6 +44,10 @@ Amongst other things a building grid helps you plot, design and measure your bui
 
 ## Renewables 
 
+### Last Updated for Game Version: Java 1.18
+
+>Remember data packs don't necessarily break in newer game versions.
+
 ![Renewables Screenshot](https://github.com/Etex99/minecraft-datapacks/raw/gh-pages/images/renewables.png)
 
 >This datapack was created in collaboration with Plagiatus!
