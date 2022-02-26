@@ -1,6 +1,6 @@
 {
    "pack":{
-      "pack_format":6,
-      "description":"generates grid on a flat world"
+      "pack_format":8,
+      "description":"Building Grid Generator by Etex"
    }
 }

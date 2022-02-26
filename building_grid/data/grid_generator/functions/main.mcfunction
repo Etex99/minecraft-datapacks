@@ -1,8 +1,8 @@
 #MAIN LOOP
 
-execute if score gen_mode BG_settings matches 0 run execute at @a run execute as @e[type=minecraft:area_effect_cloud,tag=BG_grid,distance=0..128] at @s run execute if score @s BG_gen_counter < 00000002-0002-0001-0009-000000000009 BG_gen_counter run function grid_generator:generation/create_default_tile
+execute if score gen_mode BG_settings matches 0 run execute at @a run execute as @e[type=minecraft:marker,tag=BG_grid,distance=0..128] at @s run execute if score @s BG_gen_counter < 00000002-0002-0001-0009-000000000009 BG_gen_counter run function grid_generator:generation/create_default_tile
 
-execute if score gen_mode BG_settings matches 1 run execute at @a run execute as @e[type=minecraft:area_effect_cloud,tag=BG_grid,distance=0..128] at @s run execute if score @s BG_gen_counter < 00000002-0002-0001-0009-000000000009 BG_gen_counter run function grid_generator:generation/create_custom_tile
+execute if score gen_mode BG_settings matches 1 run execute at @a run execute as @e[type=minecraft:marker,tag=BG_grid,distance=0..128] at @s run execute if score @s BG_gen_counter < 00000002-0002-0001-0009-000000000009 BG_gen_counter run function grid_generator:generation/create_custom_tile
 
 #USE UI ITEM WHEN IN OFFHAND
 
