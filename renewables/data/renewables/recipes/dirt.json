@@ -1,18 +1,16 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "ingredients": [
-        {
-            "item": "minecraft:clay"
-        },
-        {
-            "item": "minecraft:sand"
-        },
-        {
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
             "item": "minecraft:rotten_flesh"
         }
-    ],
+    },
     "result": {
         "item": "minecraft:dirt",
-        "count": 2
+        "count": 4
     }
 }
