@@ -53,93 +53,92 @@ Amongst other things a building grid helps you plot, design and measure your bui
 >This datapack was created in collaboration with Plagiatus!
 >You should check out his work at his [website!](https://plagiatus.net/){:target="_blank"}
 
-The renewables datapack is perfect for every hardcore minecraft environmentalist. Do you ever feel like you don't own enough coarse sand which gets everywhere? I mean... Do you ever feel like destroying precious landscapes for your selfish construction projects is unacceptable but unavoidable? With the renewables datapack we have created renewable ways to obtain everything in vanilla survival minecraft so that you may divert your exploitation of the natural resources into more handsome operations. We have carefully determined blocks and items in the game which are finite and constructed believable ways of obtaining them with our combined massive intellect. 
+The renewables datapack is perfect for every hardcore minecraft environmentalist. Do you ever feel like you don't own enough coarse sand which gets everywhere? I mean... Do you ever feel like destroying precious landscapes for your selfish construction projects is unacceptable but unavoidable? With the renewables datapack we have created renewable ways to obtain everything in vanilla survival minecraft so that you may divert your exploitation of the natural resources into more handsome operations. We have carefully determined blocks and items in the game which are finite and constructed believable ways of obtaining them.
 
 ### List of Features
 
 * Custom crafting recipes and respective recipe advancements
 * Custom loot tables
-* One neat little mechanic
 
 ### Full List of Changes. Beware it's boring
 
-* Ancient Debris is craftable from netherrack and netherite scrap
-* The Wither drops netherite scrap. The maximum amount is increased by each level of the looting enchantment
-* Coral Blocks are craftable from coral and coral fans
-* Blackstone is craftable from basalt and deepslate
-* Gilded Blackstone is craftable from blackstone and gold nuggets
-* Nether Gold Ore is craftable from netherrack and raw gold
-* Deepslate Gold Ore is craftable from deepslate and raw gold
-* Gold Ore is craftable from stone and raw gold
-* Raw Gold is craftable from gold ingots and some stone material
-* Nether Quartz Ore is craftable from nether quartz and netherrack
-* Hoglins can drop nether quartz. The amount is affected by each level of the looting enchantment
+* Ancient Debris is craftable from netherrack and netherite scrap.
+* The Wither drops netherite scrap. The maximum amount is increased by each level of the looting enchantment.
+* Coral Blocks are craftable from coral and coral fans.
+* Blackstone is craftable from basalt and deepslate.
+* Gilded Blackstone is craftable from blackstone and gold nuggets.
+* Nether Gold Ore is craftable from netherrack and raw gold.
+* Deepslate Gold Ore is craftable from deepslate and raw gold.
+* Gold Ore is craftable from stone and raw gold.
+* Raw Gold is craftable from gold ingots and some stone material.
+* Nether Quartz Ore is craftable from nether quartz and netherrack.
+* Hoglins can drop nether quartz. The amount is affected by each level of the looting enchantment.
 
 >Making an alternative source of nether quartz was a mindful decision despite an existing technically renewable way of obtaining it through piglin bartering. Bartering as well as other unreliable random mechanics like fishing were classified as not reliable enough. 
 
-* Copper Ore is craftable from stone and raw copper
-* Deepslate Copper Ore is craftable from deepslate and raw copper
-* Raw Copper is craftable from copper ingots and some stone material
+* Copper Ore is craftable from stone and raw copper.
+* Deepslate Copper Ore is craftable from deepslate and raw copper.
+* Raw Copper is craftable from copper ingots and some stone material.
 * Drop rate of a Copper Ingot from the Drowned has been increased. The chance is increased by each level of the looting enchantment.
-* Coal Ore can be crafted from stone and (char)coal
-* Deepslate Coal Ore can be crafted from deepslate and (char)coal
-* Deepslate Diamond Ore can be crafted from deepslate and diamonds
-* Diamond Ore can be crafted from stone and diamonds
+* Coal Ore can be crafted from stone and (char)coal.
+* Deepslate Coal Ore can be crafted from deepslate and (char)coal.
+* Deepslate Diamond Ore can be crafted from deepslate and diamonds.
+* Diamond Ore can be crafted from stone and diamonds.
 * Mining coal ore can rarely yield diamonds. The amount is increased by each level of the fortune enchantment.
 
 >Diamond was one of the hardest items to make renewable while trying to keep things balanced and even remotely logical. Turning coal into diamond is an oversimplification of real world diamond forming. While coal is very easy to obtain in the game the chance is very low to balance things out.  
 
-* Emerald Ore can be crafted from stone and emeralds
-* Deepslate Emerald Ore can be crafted from deepslate and emeralds
-* Deepslate Iron Ore can be crafted from deepslate and raw iron
-* Iron Ore can be crafted from stone and raw iron
-* Raw Iron can be crafted from iron ingots and some stone material
-* Deepslate Redstone Ore can be crafted from deepslate, redstone blocks and redstone dust
-* Redstone Ore can be crafted from stone, redstone blocks and redstone dust
-* Deepslate Lapis Ore can be crafted from deepslate, lapis blocks and lapis
-* Lapis Ore can be crafted from stone, lapis blocks and lapis
-* Netherrack can be crafted from nether wart blocks
-* Calcite can be crafted from bone blocks and nether quartz
-* Clay block can be crafted from water buckets and granite
+* Emerald Ore can be crafted from stone and emeralds.
+* Deepslate Emerald Ore can be crafted from deepslate and emeralds.
+* Deepslate Iron Ore can be crafted from deepslate and raw iron.
+* Iron Ore can be crafted from stone and raw iron.
+* Raw Iron can be crafted from iron ingots and some stone material.
+* Deepslate Redstone Ore can be crafted from deepslate, redstone blocks and redstone dust.
+* Redstone Ore can be crafted from stone, redstone blocks and redstone dust.
+* Deepslate Lapis Ore can be crafted from deepslate, lapis blocks and lapis.
+* Lapis Ore can be crafted from stone, lapis blocks and lapis.
+* Netherrack can be crafted from nether wart blocks.
+* Calcite can be crafted from bone blocks and nether quartz.
+* Clay block can be crafted from water buckets and granite.
 
 >Clay is by far the most ridiculously hard to get in large quantities considering it is a purely cosmetic block. Still, it is supposedly "renewable" through villager gifts whilst bearing hero of the village effect but we decided this to be morbidly inefficient.
 
-* Clay ball can be crafted from clay blocks
-* Cobweb can be crafted from string
-* Crying obsidian can be crafted from obsidian and ghast tears
-* Dead Bush can be smelted from saplings in a furnace
-* Deepslate can be crafted from stone
-* Dirt can be crafted from clay blocks, sand and rotten flesh
-* Killing the Ender Dragon drops a dragon head and a dragon egg
-* Endstone can be crafted from cobblestone and chorus flowers
-* Gravel can be made in the stonecutter from cobblestone
-* Slimes can drop lilypads
-* Red Sand can be crafted from sand and red dye
-* Sand can be made in the stonecutter from gravel
+* Clay ball can be crafted from clay blocks.
+* Cobweb can be crafted from string.
+* Crying obsidian can be crafted from obsidian and ghast tears.
+* Dead Bush can be smelted from saplings in a furnace.
+* Deepslate can be crafted from stone.
+* Dirt can be crafted from rotten flesh.
+* Killing the Ender Dragon drops a dragon head and a dragon egg.
+* Endstone can be crafted from cobblestone and chorus flowers.
+* Gravel can be made in the stonecutter from cobblestone.
+* Slimes can drop lilypads.
+* Red Sand can be crafted from sand and red dye.
+* Sand can be made in the stonecutter from gravel.
 
->Sand is the reason we made this datapack. Believe me it's true. We don't really hate sand
+>Sand is the reason we made this datapack. Believe me it's true. We don't really hate sand.
 
-* Small Dripleaf can be crafted from kelp and lilypads
+* Small Dripleaf can be crafted from big dripleaf.
 
->My only question is why did the devs not make this plant grow from bonemealing moss like every. single. other. new cave plant. Perhaps we should expect this one to change in Caves and Cliffs part 2
+>My only question is why did the devs not make this plant grow from bonemealing moss like every. single. other. new cave plant. Perhaps we should expect this one to change in Caves and Cliffs part 2.
 
-* Soul Soil can be crafted from warped wart blocks and bones
-* Soul Sand can be made in the stonecutter from soul soil
-* Guardians can rarely drop a sponge. The chance is increased by each level of the looting enchantment. This drop is player only
-* Tuff can be crafted from cobblestone and basalt
-* Chainmail Armor can be crafted from leather and chains
-* Elytra can be crafted from dragon heads and phantom membranes
+* Soul Soil can be crafted from warped wart blocks and bones.
+* Soul Sand can be made in the stonecutter from soul soil.
+* Guardians can rarely drop a sponge. The chance is increased by each level of the looting enchantment. This drop is player only.
+* Tuff can be crafted from cobblestone and basalt.
+* Chainmail Armor can be crafted from leather and chains.
+* Elytra can be crafted from dragon heads and phantom membranes.
 
->I get an elytra, you get an elytra, everyone gets an elytra! But first you've got to slay the beast
+>I get an elytra, you get an elytra, everyone gets an elytra! But first you've got to slay the beast.
 
-* Enchanted Golden Apple can be crafted from apples and gold blocks
-* Iron, Gold, and Diamond Horse Armor can be crafted from the respective materials
-* Piglins can rarely drop the snout banner pattern. The chance is increased by each level of the looting enchantment. This drop is player only
-* Heart of the Sea can be crafted from eyes of ender and nautilus shells
+* Enchanted Golden Apple can be crafted from apples and gold blocks.
+* Iron, Gold, and Diamond Horse Armor can be crafted from the respective materials.
+* Piglins can rarely drop the snout banner pattern. The chance is increased by each level of the looting enchantment. This drop is player only.
+* Heart of the Sea can be crafted from eyes of ender and nautilus shells.
 * Digging sand can rarely yield a nautilus shell. The chance is increased by each level of the fortune enchantment.
-* Shulkers regularly spawn around dragon eggs in the end dimension. 
-
->We want to believe the shulkers are hungry for omelettes and therefore attracted to the dragon eggs. In reality this was the only good idea we had for making renewable shulker shells.
+* Shulker spawners are included in ships within end cities making renewable shulker shells.
+* Piglins can rarely drop a book enchanted with soul speed. The chance is increased by each level of the looting enchantment. This drop is player only.
+* Spore Blossom can be crafted from moss blocks and flowers.
 
 Final notes
 
